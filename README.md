@@ -23,8 +23,8 @@ Please download the following vector files and unzip them into the 'data' direct
 
 - data
   
-  ics_all.dat、ics_test.dat、ics_train.dat、ics_val.dat: interactive dataset
+  ics_all.dat、ics_test.dat、ics_train.dat、ics_val.dat: Interactive dataset
   
   neighbor_aspect_extension_2_zscore_ics_uuii_0.20_10.pkl: Dataset of Neighbors and Their Attributes
 
-  uiinfo.pkl: statistical data table
+  uiinfo.pkl: Statistical data table
