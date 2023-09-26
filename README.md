@@ -24,3 +24,6 @@ Networks Recommendation Model for Corporate Volunteer Activities]"
   neighbor_aspect_extension_2_zscore_ics_uuii_0.20_10.pkl: Dataset of Neighbors and Their Attributes
 
   uiinfo.pkl: Statistical data table
+
+  item_entity_embedding.npy、user_entity_embedding.npy：Embedding vectors for item and user
+  
