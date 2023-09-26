@@ -9,10 +9,6 @@ Networks Recommendation Model for Corporate Volunteer Activities]"
 * numpy==1.25.0
 * cuda=10.2
 
-## data
-Please download the following vector files and unzip them into the 'data' directory:
-* https://hzai.oss-cn-shenzhen.aliyuncs.com/FIEGNN/data_emb.zip
-
 ## Directory
 
 - code
