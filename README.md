@@ -11,19 +11,19 @@ Networks Recommendation Model for Corporate Volunteer Activities]"
 
 ## Directory
 
-- code
+* code
 
-  model.py: Model function
+  - model.py: Model function
 
-  train.py: Train function
+  - train.py: Train function
 
-- data
+* data
   
-  ics_all.dat、ics_test.dat、ics_train.dat、ics_val.dat: Interactive dataset
+  - ics_all.dat、ics_test.dat、ics_train.dat、ics_val.dat: Interactive dataset
   
-  neighbor_aspect_extension_2_zscore_ics_uuii_0.20_10.pkl: Dataset of Neighbors and Their Attributes
+  - neighbor_aspect_extension_2_zscore_ics_uuii_0.20_10.pkl: Dataset of Neighbors and Their Attributes
 
-  uiinfo.pkl: Statistical data table
+  - uiinfo.pkl: Statistical data table
 
-  item_entity_embedding.npy、user_entity_embedding.npy：Embedding vectors for item and user
+  - item_entity_embedding.npy、user_entity_embedding.npy：Embedding vectors for item and user
   
